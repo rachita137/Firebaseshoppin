@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985124867989",
+    "firebase_url": "https://fir-shoppin.firebaseio.com",
+    "project_id": "fir-shoppin",
+    "storage_bucket": "fir-shoppin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985124867989:android:f20822ce3f4788a954b09c",
+        "android_client_info": {
+          "package_name": "tatastrive.application.firebaseshoppin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985124867989-b5dvkdm706p7n8k8tb3hlujse9d4ih2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tatastrive.application.firebaseshoppin",
+            "certificate_hash": "afb0f45ba04cc17178a1d5e8ff0fa31da6b4ccab"
+          }
+        },
+        {
+          "client_id": "985124867989-fb3j7tjb4gg6o1g6bcseo6vbudb8gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBgplD3XOwJ2F8gA4RK6-UiqVvW57RF9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985124867989-fb3j7tjb4gg6o1g6bcseo6vbudb8gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
